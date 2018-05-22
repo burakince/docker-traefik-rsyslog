@@ -2,6 +2,8 @@
 
 Traefik and Rsyslog Docker Image
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/burakince/traefik-rsyslog.svg)](https://hub.docker.com/r/burakince/traefik-rsyslog/) [![Docker Automated build](https://img.shields.io/docker/automated/burakince/traefik-rsyslog.svg)](https://hub.docker.com/r/burakince/traefik-rsyslog/) [![Docker Build Status](https://img.shields.io/docker/build/burakince/traefik-rsyslog.svg)](https://hub.docker.com/r/burakince/traefik-rsyslog/)
+
 ## Latest Versions
 
 Latest Traefik: [![traefik tag](https://img.shields.io/github/tag/containous/traefik.svg)](https://github.com/containous/traefik)
