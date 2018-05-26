@@ -8,10 +8,10 @@ Traefik and Rsyslog Docker Image
 
 Latest Traefik: [![traefik tag](https://img.shields.io/github/tag/containous/traefik.svg)](https://github.com/containous/traefik)
 Latest Rsyslog: [![rsyslog tag](https://img.shields.io/github/tag/rsyslog/rsyslog.svg)](https://github.com/rsyslog/rsyslog)
-Latest Superviser: [![supervisor tag](https://img.shields.io/github/tag/Supervisor/supervisor.svg)](https://github.com/Supervisor/supervisor)
+Latest Supervisor: [![supervisor tag](https://img.shields.io/github/tag/Supervisor/supervisor.svg)](https://github.com/Supervisor/supervisor)
 
 ## This Image Using
 
 Traefik Version: 1.6.2
 Rsyslog Version: 8.35.0
-Superviser Version: 3.2.4
+Supervisor Version: 3.2.4
