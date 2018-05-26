@@ -3,7 +3,7 @@ from traefik:1.6.2-alpine
 LABEL maintainer="Burak Ince <burak.ince@linux.org.tr>"
 
 ENV RSYSLOG_VERSION=8.35.0-r0 \
-    SUPERVISER_VERSION=3.3.3-r1
+    SUPERVISER_VERSION=3.2.4-r0
 
 RUN cd /etc/apk/keys \
   && wget http://alpine.adiscon.com/rsyslog@lists.adiscon.com-5a55e598.rsa.pub \
