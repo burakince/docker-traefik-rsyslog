@@ -1,4 +1,4 @@
-from traefik:1.6.2-alpine
+from traefik:1.6.3-alpine
 
 LABEL maintainer="Burak Ince <burak.ince@linux.org.tr>"
 
