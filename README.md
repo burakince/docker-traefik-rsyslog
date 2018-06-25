@@ -13,5 +13,5 @@ Latest Supervisor: [![supervisor tag](https://img.shields.io/github/tag/Supervis
 ## This Image Using
 
 Traefik Version: 1.6.4
-Rsyslog Version: 8.35.0
+Rsyslog Version: 8.36.0
 Supervisor Version: 3.2.4

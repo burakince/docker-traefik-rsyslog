@@ -2,7 +2,7 @@ from traefik:1.6.4-alpine
 
 LABEL maintainer="Burak Ince <burak.ince@linux.org.tr>"
 
-ENV RSYSLOG_VERSION=8.35.0-r0 \
+ENV RSYSLOG_VERSION=8.36.0-r0 \
     SUPERVISOR_VERSION=3.2.4-r0
 
 RUN cd /etc/apk/keys \
